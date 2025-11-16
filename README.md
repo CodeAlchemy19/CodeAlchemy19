@@ -20,7 +20,7 @@ s
 <h3 align="center">A passionate Full Stack Software Engineer. I love programming and problem solving using my amazing Tech Skills. I have good communication skills and team work ethic</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatunyi15075&label=Profile%20views&color=0e75b6&style=flat" alt="yatunyi15075" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatunyi15075&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlchemy19" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yatunyi15075" alt="yatunyi15075" /></a> </p>
 -->
@@ -33,7 +33,7 @@ s
 
 - 💬 Ask me about **React, JavaScript, Python, Flutter**
 
-- 📫 How to reach me **codingwbrian@gmail.com**
+- 📫 How to reach me **CodeAlchemy19@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
