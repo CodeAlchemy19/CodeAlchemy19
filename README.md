@@ -3,7 +3,7 @@
 **CodeAlchemy19/CodeAlchemy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+s
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="1100" src="https://th.bing.com/th/id/R.0cffa04637bbc93f791aad16f6f4add4?rik=cnkpduUBZ%2bD45Q&pid=ImgRaw&r=0" >
 
-<h1 align="center">Hello 👋, I'm Yatunyi Brian Ondeko</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Kenya. I love programming and problem solving using my amazing Tech Skills. I have good communication skills and team work ethic</h3>
+<h1 align="center">Hello 👋, I'm CodeAlchemy19</h1>
+<h3 align="center">A passionate Full Stack Software Engineer. I love programming and problem solving using my amazing Tech Skills. I have good communication skills and team work ethic</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatunyi15075&label=Profile%20views&color=0e75b6&style=flat" alt="yatunyi15075" /> </p>
