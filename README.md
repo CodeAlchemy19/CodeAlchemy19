@@ -16,7 +16,7 @@ s
 
 <img align="right" alt="Coding" width="1100" src="https://th.bing.com/th/id/R.0cffa04637bbc93f791aad16f6f4add4?rik=cnkpduUBZ%2bD45Q&pid=ImgRaw&r=0" >
 
-<h1 align="center">Hello 👋, I'm CodeAlchemy19</h1>
+<h1 align="center">Hello 👋, I'm CodeAlchemy19 💦</h1>
 <h3 align="center">A passionate Full Stack Software Engineer. I love programming and problem solving using my amazing Tech Skills. I have good communication skills and team work ethic</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 
