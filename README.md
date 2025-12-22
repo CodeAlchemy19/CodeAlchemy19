@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-# Hi — I’m CodeAlchemy19 👋
-Senior Full‑Stack Developer & AI Engineer — building high‑performance web platforms and AI‑powered products that scale.
+# Hi, I’m CodeAlchemy19 👋
+Senior Full‑Stack Developer & AI Engineer - building high‑performance web platforms and AI‑powered products that scale.
 
-I’m a Full‑Stack Developer and AI Engineer with 7+ years of professional experience delivering secure, maintainable, and high‑impact software. I design and build end‑to‑end solutions — from fast, accessible frontends to resilient backends and data pipelines — and I integrate modern AI capabilities (LLMs, retrieval systems, autonomous agents) to add intelligence and automation to real products across fintech, healthcare, and ecommerce.
+I’m a Full‑Stack Developer and AI Engineer with 7+ years of professional experience delivering secure, maintainable, and high‑impact software. I design and build end‑to‑end solutions - from fast, accessible frontends to resilient backends and data pipelines - and I integrate modern AI capabilities (LLMs, retrieval systems, autonomous agents) to add intelligence and automation to real products across fintech, healthcare, and ecommerce.
 
 I turn complex requirements into elegant, scalable, and secure systems. I value quality engineering, clear collaboration, and measurable product outcomes.
 
@@ -68,9 +68,8 @@ Tools & Practices
 ## Selected projects
 (Short summaries + links can be added here — include the problem, your approach, and the measurable impact.)
 
-- Zawadii — modern web app (frontend + backend) — currently in active development.
-- AI Search & Assistant — RAG + vector DBs powering contextual search and automated responses.
-- Automation pipelines for fintech workflows — improved throughput and reduced manual processing.
+- AI Search & Assistant - RAG + vector DBs powering contextual search and automated responses.
+- Automation pipelines for fintech workflows - improved throughput and reduced manual processing.
 
 ---
 
@@ -88,4 +87,4 @@ Tools & Practices
 
 ---
 
-I keep learning and shipping — if you have an interesting problem (AI + full‑stack), let's connect.
+I keep learning and shipping - if you have an interesting problem (AI + full‑stack), let's connect.
