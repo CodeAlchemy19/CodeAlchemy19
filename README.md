@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-
 # Hi, I’m CodeAlchemy19 👋
 Senior Full‑Stack Developer & AI Engineer - building high‑performance web platforms and AI‑powered products that scale.
 
@@ -23,7 +21,7 @@ Programming Languages & Frameworks
 - JavaScript, TypeScript
 - React.js, Next.js, Vue.js
 - Node.js
-- Python, Flask, Django
+- Python, Flask, Django, Java
 
 Databases & Data Platforms
 - MySQL, PostgreSQL, MongoDB
