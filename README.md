@@ -79,7 +79,6 @@ Tools & Practices
 
 ## GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CodeAlchemy19&show_icons=true&theme=default" alt="CodeAlchemy19" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeAlchemy19&layout=compact&theme=default" alt="Top languages" />
 </p>
 
