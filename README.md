@@ -86,4 +86,3 @@ Tools & Practices
 
 I keep learning and shipping - if you have an interesting problem (AI + full‑stack), let's connect.
 
-
