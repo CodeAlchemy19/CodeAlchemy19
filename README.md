@@ -19,7 +19,7 @@ I turn complex requirements into elegant, scalable, and secure systems. I value 
 
 Programming Languages & Frameworks
 - JavaScript, TypeScript
-- React.js, Next.js, Vue.js
+- React.js, Next.js, Vue.js, Medusa.js
 - Node.js
 - Python, Flask, Django, Java
 
