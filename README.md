@@ -72,7 +72,7 @@ Tools & Practices
 ---
 
 ## Let’s work together
-- Email: [CodeAlchemy19@outlook.com](mailto:CodeAlchemy19@outlook.com)
+- Email: [cloudalchemist95@gmail.com](mailto:cloudalchemist95@gmail.com)
 - Open to: senior engineering roles, AI/ML engineering, technical leadership, consulting, and collaborations.
 
 ---
